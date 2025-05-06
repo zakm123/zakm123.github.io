@@ -20,7 +20,7 @@
 
 title: hac.cx cybersecurity learnings & labs
 description: >- # this means to ignore newlines until "baseurl:"
-  hac.cx is a personal site for sharing my cybersecurity learnings and labs.
+  hac.cx is a personal site for sharing my cybersecurity learnings and labs
 baseurl: / # the subpath of your site, e.g. /blog
 url: https://hac.cx # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  zakm123
