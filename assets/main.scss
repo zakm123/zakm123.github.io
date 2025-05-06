@@ -1,0 +1,43 @@
+---
+---
+
+@import "minima";
+
+// Override colors (manually create a dark theme)
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+  font-family: 'Courier New', monospace;
+}
+
+a {
+  color: #009b08;
+}
+
+a:visited {
+  color: #009b08;
+}
+
+a:hover {
+  color: #009b08;
+}
+
+.site-header {
+  background-color: #1f1f1f;
+  border-bottom: 1px solid #444;
+}
+
+.site-title,
+.site-title:visited {
+  color: #ffffff;
+}
+
+.site-footer {
+  background-color: #1f1f1f;
+  color: #aaa;
+}
+
+code, pre {
+  background-color: #2e2e2e;
+  color: #e0e0e0;
+}
